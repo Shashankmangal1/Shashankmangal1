@@ -31,7 +31,7 @@
 ### 📫 Connect with Me
 🌐 [Portfolio](https://shashank-portfolio-chi.vercel.app)  
 💼 [LinkedIn](https://linkedin.com/in/shashankmangal1)  
-📧 shashankmangal1@gmail.com  
+📧 shashankmngl@gmail.com 
 
 ---
 
