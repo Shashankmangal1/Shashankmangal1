@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Full Stack Developer** passionate about creating dynamic and scalable web applications.  
 🎯 Currently exploring **MERN Stack** (MongoDB, Express, React, Node.js).  
-📚 Learning by building — one project at a time!  
+📚 Learning by building one project at a time!  
 
 ---
 
