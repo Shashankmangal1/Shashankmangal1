@@ -1,15 +1,22 @@
-# 👋 Hi, I'm Shashank Mangal  
+# 👋 Hey there! I'm **Shashank Mangal**
 
-🚀 **Aspiring Full Stack Developer** passionate about creating dynamic and scalable web applications.  
-🎯 Currently exploring **MERN Stack** (MongoDB, Express, React, Node.js).  
-📚 Learning by building one project at a time!  
+🚀 **Aspiring Full Stack Developer** | Passionate about building dynamic, scalable, and user-friendly web applications.  
+💡 Exploring the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and bringing ideas to life through clean and efficient code.
 
 ---
 
-### 🧠 What I’m working on
-- Building real-world projects to strengthen my full stack skills  
-- Exploring backend optimization and deployment  
-- Preparing for exciting opportunities in tech 🚀  
+### 🔥 Featured Project — *Latest Release!*
+#### 🧘‍♂️ [Calmly 1.0](https://calmly1-0-git-main-shashanks-projects-325217d1.vercel.app/)
+A soothing and minimal productivity app designed to help you **focus, relax, and manage your time mindfully**.  
+Built using **React**, **Tailwind CSS**, and **Next.js** — focused on **simplicity and calm user experience**.
+
+---
+
+### 🧠 What I’m Currently Working On
+- 🧩 Building real-world **Full Stack projects** to strengthen my development skills  
+- ⚙️ Learning backend optimization, database design, and API integration  
+- ☁️ Exploring deployment, authentication, and advanced React features  
+- 🎯 Preparing for exciting opportunities in tech 🚀  
 
 ---
 
@@ -17,38 +24,24 @@
 **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman, Vercel  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel  
 
 ---
 
-### 📂 Featured Projects
-- 📝 [QuickBlog](https://quick-blog-gamma-three.vercel.app) — A full-stack blog platform built using MERN  
+### 🌟 Other Notable Projects
+- 📝 [QuickBlog](https://quick-blog-gamma-three.vercel.app) — A full-stack blogging platform using the MERN stack  
 - 🧭 [QTrip](https://github.com/Shashankmangal1/QTrip) — A travel website to explore and book adventures  
 - 💼 [Portfolio](https://shashank-portfolio-chi.vercel.app) — My personal portfolio showcasing my projects and skills  
 
 ---
 
 ### 📫 Connect with Me
-🌐 [Portfolio](https://shashank-portfolio-chi.vercel.app)  
-💼 [LinkedIn](https://linkedin.com/in/shashankmangal1)  
-📧 shashankmngl@gmail.com 
+🌐 **Portfolio:** [shashank-portfolio-chi.vercel.app](https://shashank-portfolio-chi.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/shashankmangal1](https://linkedin.com/in/shashankmangal1)  
+📧 **Email:** shashankmngl@gmail.com  
 
 ---
 
-⭐️ *“Code. Build. Learn. Repeat.”*
+⭐ *“Code. Build. Learn. Repeat.”*  
 
-
-<!--
-**Shashankmangal1/Shashankmangal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 *If you like my work, consider giving a ⭐ to my repositories!*
