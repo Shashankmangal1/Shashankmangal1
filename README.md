@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 Featured Project — *Latest Release!*
-#### 🧘‍♂️ [Calmly 1.0](https://calmly1-0-git-main-shashanks-projects-325217d1.vercel.app/)
+#### 🧘‍♂️ [Calmly 1.0](https://calmly1-0.vercel.app/)
 A **focus and productivity app** built to help users relax, concentrate, and manage time mindfully.  
 Developed using **Next.js**, **Inngest**, **Echo API**, and **Tailwind CSS** blending performance, simplicity, and calm UI design.  
 > 🧩 *Built with the goal of bringing mindfulness into productivity.*
