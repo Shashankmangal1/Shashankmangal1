@@ -85,7 +85,7 @@ Developed using **Next.js**, **Inngest**, **Echo API**, and **Tailwind CSS** ble
 
 ### 📫 Connect with Me
 🌐 **Portfolio:** [shashank-portfolio-chi.vercel.app](https://shashank-portfolio-chi.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/shashankmangal1](https://linkedin.com/in/shashankmangal1)  
+💼 **LinkedIn:** [linkedin.com/in/shashankmangal](https://www.linkedin.com/in/shashank-mangal-ba1140282/)  
 📧 **Email:** shashankmngl@gmail.com  
 
 ---
